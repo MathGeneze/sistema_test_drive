@@ -1,5 +1,3 @@
-# Modelagem UML
-
 # Modelagem UML da Solução
 
 ## 1. Diagrama de Casos de Uso

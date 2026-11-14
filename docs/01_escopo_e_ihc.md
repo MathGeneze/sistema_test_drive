@@ -1,5 +1,3 @@
-# Escopo e IHC
-
 # Escopo, Requisitos e Diretrizes de IHC
 
 ## 1. Visão Geral e Escopo do Projeto
